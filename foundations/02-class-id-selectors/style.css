@@ -1,9 +1,9 @@
-.para{
+.odd{
     background: #ff9999;
     font: "Verdana","DejaVu Sans",sans-serif;
 }
 
-.para.three{
+.difffontsize{
     font-size:24px;
 }
 
@@ -15,5 +15,4 @@
 #greenbg{
     background-color: #90ee90;
     font-weight: 700;
-    font-size: 24px;
 }
